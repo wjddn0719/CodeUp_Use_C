@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jungwoo0719/Desktop/C 코드업/문자열/output/strcpy"
+relocations:     []
+...
