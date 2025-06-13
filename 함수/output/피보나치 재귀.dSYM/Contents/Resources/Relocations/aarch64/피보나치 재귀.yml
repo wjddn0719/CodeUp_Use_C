@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jungwoo0719/Desktop/C 코드업/함수/output/피보나치 재귀"
+relocations:     []
+...
